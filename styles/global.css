@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Allerta', sans-serif;
+}
+
+::selection {
+  /* background-color:rgba(128, 128, 128, 0.15); */
+  background-color: var(--accent-color-1);
+}
+
+:root {
+  --primary-color: #C4942F;
+  --secondary-color: #5CA3B5;
+  --accent-color-1: #DEDFD9;
+  --accent-color-2: #B59177;
+  --accent-color-3: #604A32;
+  --accent-color-4: #18180E;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
