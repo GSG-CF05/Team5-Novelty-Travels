@@ -25,7 +25,6 @@
   margin: auto;
 }
 
-
 .main .container figure.illustration .travel-image {
   width: 330px;
   margin-bottom: 1rem;
@@ -46,9 +45,9 @@
 .main .container .start-btn {
   border: none;
   color: #fff;
-  background-color: #FCAF0D;
+  background-color: #fcaf0d;
   font-weight: bold;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-size: 1.2rem;
   text-transform: capitalize;
   padding: 0.8rem 1.6rem;
