@@ -64,7 +64,7 @@ All codes are written on Visual Studio Code, there are
 - Whatapp group.
 
 ## Teamwork:
-(Salwa Siksik)[https://github.com/salwasiksik]
-(Abdul Aziz Al-Kurd)[https://github.com/azzsal]
-(Ahmed Hammad)[https://github.com/ahmedhmmad]
-(Mohamed Sbaih)[https://github.com/MohamedSbaih]
+- (Salwa Siksik)[https://github.com/salwasiksik]
+- (Abdul Aziz Al-Kurd)[https://github.com/azzsal]
+- (Ahmed Hammad)[https://github.com/ahmedhmmad]
+- (Mohamed Sbaih)[https://github.com/MohamedSbaih]
